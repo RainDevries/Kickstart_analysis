@@ -15,7 +15,7 @@ We can tell from the chart above that the best time for Louise to have a campaig
 
 ![image](https://user-images.githubusercontent.com/96553352/147431449-166a5eee-03f9-424a-8604-8c267af1e4a5.png)
 
-We can also see here that the outcomes of fundraisers started for plays did signifcantly better than the other categories we ran campaigns for, meaning Louise might have the best chance starting a fundraiser for her play in the early months of Spring for her play.
+We can also see here that the outcomes of fundraisers started for plays did significantly better than the other categories we ran campaigns for, meaning Louise might have the best chance starting a fundraiser for her play in the early months of Spring for her play.
 
 ![image](https://user-images.githubusercontent.com/96553352/147431906-22d312f1-e1a2-452f-b386-21c3062b7c7d.png)
 
